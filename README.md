@@ -1,5 +1,5 @@
 # AeroInspect NDT — UAV Concrete Surface Inspection
-
+![Demo](ndt_demo.gif)
 Desktop application for automated post-flight screening of concrete structures (bridges, dams, tunnels) from UAV photogrammetry imagery.
 
 ## Key Features
