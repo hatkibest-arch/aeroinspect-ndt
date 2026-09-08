@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+runs/
+cls_dataset/
+dataset_seg/
+temp_annotated/
+*.mp4
+*.jpg
+*.png
